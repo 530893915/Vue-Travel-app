@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+> DUDU旅游
 
 ## Build Setup
 
