@@ -27,6 +27,7 @@ export default {
     line-height .86rem
     background $bgColor
     color #fff
+    box-shadow 0 2px 13px 5px rgba(0, 0, 0, 0.02)
     .header-left
       width .64rem
       float left
