@@ -17,6 +17,7 @@ export default {
       swiperOption: {
         pagination: '.swiper-pagination',
         loop: true,
+        effect: 'fade',
         autoplay: 3000
       },
       swiperList: [
@@ -45,7 +46,6 @@ export default {
     width 100%
     height 2rem
     overflow hidden
-    background #eee
     .swiper-img
       width 100%
 </style>
